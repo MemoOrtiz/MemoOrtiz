@@ -3,7 +3,6 @@ Hi, I’m Guillermo Ortiz, u can call me Memo.
 - 👀 I’m looking learning Software Development, Big Data, Manage of database.
 - 🌱 I’m currently learning Python, DataBases, Java, C#.
 - 
-- 📫 How to reach me ...
 
 <!---
 MemoOrtiz/MemoOrtiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,8 +1,12 @@
-Hi, I’m Guillermo Ortiz, u can call me Memo.
+Hi, my name is Guillermo Ortiz, u can call me Memo.
 
-- 👀 I’m looking learning Software Development, Big Data, Manage of database.
-- 🌱 I’m currently learning Python, DataBases, Java, C#.
-- 
+I´m 23 years old student of Software Engineering.
+
+About me
+
+- 👀 I’m looking learning Software Development, Manage of database, Cloud.
+- 🌱 I’m currently learning Python, Java, C#.
+- ⚡ 
 
 <!---
 MemoOrtiz/MemoOrtiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

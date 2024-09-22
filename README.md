@@ -6,8 +6,8 @@ I´m 23 years old student of Software Engineering of ITS, Coahuila, Mexico.
 <h2> About me</h2>
     
 <div>
-<p>- 👀 I’m looking learning <b>Software Development</b>, <b>Software Engineering</b>, <b>Data Analysis</b>, Manage of database, Cloud.</p>
-<p>- 🌱 I’m currently learning Python,C#,Java. </p>
+<p>- 👀 I’m looking learning <b>Data Analysis</b>, <b>Software Development</b>, <b>Software Engineering</b>,  Manage of database, Cloud.</p>
+<p>- 🌱 I’m currently learning Python, React and Data Analysis process. </p>
 <p> - 🇲🇽 Proudly Mexican, born in Manzanillo Colima</p>
 </div>
 <!---

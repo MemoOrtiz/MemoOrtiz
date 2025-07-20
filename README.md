@@ -1,10 +1,9 @@
-<h1>Hi, my name is Guillermo Ortiz.</h1>
+<h1>Hello, I'm Memo Ortiz. 🐧</h1>
 
+<h2>🦈About me</h2>
 
-I´m 23 years old student of Software Engineering of ITS, Coahuila, Mexico.
+I´m student of Software Engineering of ITS, Coahuila, Mexico.
 
-<h2> About me</h2>
-    
 <div>
 <p>- 👀 I’m looking learning <b>Data Analysis</b>, <b>Software Development</b>, <b>Software Engineering</b>,  <b>Manage of database</b>, <b>Cloud Integration</b>.</p>
 <p>- 🌱 I’m currently learning Python, React and Data Analysis process. </p>
@@ -14,8 +13,15 @@ I´m 23 years old student of Software Engineering of ITS, Coahuila, Mexico.
 MemoOrtiz/MemoOrtiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<p></p>
+<div><h3 align="left">
+Languages and Tools
 
-## 📈 GitHub Stats
+</h3>
+<img src='https://go-skill-icons.vercel.app/api/icons?i=py,flask,java,cs,js,ts,html,css,mysql,'/>
+</div>
+
+<h3>📈 GitHub Stats </h3>
 
 <div align="center"">
    
